@@ -20,3 +20,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+# Completed Customizing User Model and waiting to integrate. 
